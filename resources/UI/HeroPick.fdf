@@ -1,0 +1,48 @@
+IncludeFile "UI\FrameDef\UI\EscMenuTemplates.fdf",
+
+Frame "GLUEBUTTON" "HeroSelectorButton" {
+	Width 0.035,
+	Height 0.035,
+    ControlStyle "AUTOTRACK|HIGHLIGHTONMOUSEOVER",
+
+    ControlBackdrop "HeroSelectorButtonIcon",
+    Frame "BACKDROP" "HeroSelectorButtonIcon" {
+    }
+
+    ControlDisabledBackdrop "HeroSelectorButtonIconDisabled",
+    Frame "BACKDROP" "HeroSelectorButtonIconDisabled" {
+    }
+
+    ControlMouseOverHighlight "ScoreScreenTabButtonBackdrop",
+	Frame "HIGHLIGHT" "ScoreScreenTabButtonBackdrop" {
+		HighlightType "FILETEXTURE",
+		HighlightAlphaFile "UI\Glues\ScoreScreen\scorescreen-tab-hilight.blp",
+		HighlightAlphaMode "ADD",
+	}
+
+}
+
+
+Frame "TEXT" "HeroSelectorTitle" {
+    DecorateFileNames,
+    FrameFont "InfoPanelTextFont", 0.0145, "",
+    FontJustificationH JUSTIFYCENTER,
+    FontJustificationV JUSTIFYMIDDLE,    
+    FontFlags "FIXEDSIZE",
+    FontColor 0.99 0.827 0.0705 1.0,
+    FontHighlightColor 1.0 1.0 1.0 1.0,
+    FontDisabledColor 0.5 0.5 0.5 1.0,
+	FontShadowColor 0.0 0.0 0.0 0.9,	
+    FontShadowOffset 0.001 -0.001,	
+}
+Frame "TEXT" "HeroSelectorText" {
+    DecorateFileNames,
+    FrameFont "InfoPanelTextFont", 0.011, "",
+    FontShadowColor 0.0 0.0 0.0 0.9,	
+    FontShadowOffset 0.001 -0.001,	
+}
+
+Frame "TEXTAREA" "HeroSelectorTextArea" INHERITS WITHCHILDREN "EscMenuTextAreaTemplate" {
+	DecorateFileNames,
+    FrameFont "InfoPanelTextFont", 0.011, "",
+}

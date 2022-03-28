@@ -1,0 +1,1535 @@
+﻿STRING 1
+{
+Duels
+}
+
+STRING 2
+{
+2+
+}
+
+STRING 3
+{
+Test yuor strength
+}
+
+STRING 4
+{
+Unknown
+}
+
+STRING 5
+{
+Player 1
+}
+
+STRING 6
+{
+Force 1
+}
+
+STRING 7
+{
+Player 2
+}
+
+STRING 8
+{
+Player 3
+}
+
+STRING 9
+{
+Player 4
+}
+
+STRING 10
+{
+Player 5
+}
+
+STRING 11
+{
+Player 6
+}
+
+STRING 14
+{
+Force 2
+}
+
+STRING 15
+// Abilities: AHfb (Fireball), Name (Name)
+{
+Fireball
+}
+
+STRING 23
+// Abilities: AHfb (Fireball), Tip (Tooltip - Normal)
+{
+Огненная стрела [|cffffcc002-й уровень|r]
+}
+
+STRING 24
+// Abilities: AHfb (Fireball), Tip (Tooltip - Normal)
+{
+Огненная стрела [|cffffcc003-й уровень|r]
+}
+
+STRING 26
+// Abilities: AHfb (Fireball), Researchtip (Tooltip - Learn)
+{
+Изучить «Огненную стрелу» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 27
+// Units: N000 (Мурлок-чародей), Ubertip (Tooltip - Extended)
+{
+Мурлок-мистик, мастер дальнего боя. Может изучить «Огненный ливень» и «Огненную стрелу». |n|n|cffffcc00Атакует наземные и воздушные цели.|r
+}
+
+STRING 28
+// Units: dumm (Dummy), Name (Name)
+{
+Dummy
+}
+
+STRING 29
+// Abilities: AHfn (Frostnova), Name (Name)
+{
+Frostnova
+}
+
+STRING 30
+// Abilities: AHfn (Frostnova), Researchtip (Tooltip - Learn)
+{
+Изучить «Кольцо льда» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 33
+// Abilities: AHfn (Frostnova), Tip (Tooltip - Normal)
+{
+Кольцо льда [|cffffcc002-й уровень|r]
+}
+
+STRING 34
+// Abilities: AHfn (Frostnova), Tip (Tooltip - Normal)
+{
+Кольцо льда [|cffffcc003-й уровень|r]
+}
+
+STRING 38
+// Abilities: AHfn (Frostnova), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 39
+// Abilities: AHfn (Frostnova), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 50
+// Abilities: AHfn (Frostnova), Tip (Tooltip - Normal)
+{
+Кольцо льда [|cffffcc004-й уровень|r]
+}
+
+STRING 51
+// Abilities: AHup (Unholy Pact), Name (Name)
+{
+Unholy Pact
+}
+
+STRING 52
+// Buffs/Effects: BHup (Unholy pact), EditorName (Name (Editor Only))
+{
+Unholy pact
+}
+
+STRING 53
+// Buffs/Effects: BHup (Unholy pact), Bufftip (Tooltip)
+{
+Unholy pact
+}
+
+STRING 59
+// Units: Hprs (Priest), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 60
+// Abilities: AHup (Unholy Pact), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 61
+// Abilities: AHup (Unholy Pact), Researchtip (Tooltip - Learn)
+{
+Изучить «Нечистивый союз» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 63
+// Abilities: AHup (Unholy Pact), Tip (Tooltip - Normal)
+{
+Нечистивый союз [|cffffcc002-й уровень|r]
+}
+
+STRING 64
+// Abilities: AHup (Unholy Pact), Tip (Tooltip - Normal)
+{
+Нечистивый союз [|cffffcc003-й уровень|r]
+}
+
+STRING 65
+// Abilities: AHup (Unholy Pact), Tip (Tooltip - Normal)
+{
+Нечистивый союз [|cffffcc004-й уровень|r]
+}
+
+STRING 80
+// Abilities: AHfb (Fireball), Tip (Tooltip - Normal)
+{
+Огненная стрела [|cffffcc004-й уровень|r]
+}
+
+STRING 94
+// Abilities: AHfb (Fireball), Researchubertip (Tooltip - Learn - Extended)
+{
+Выпускает сгусток огня, оглушающий врага.|n|n|cffffcc001-й уровень:|r <AHfb,DataA1> урона, <AHfb,HeroDur1> сек. оглушения. |n|cffffcc002-й уровень:|r <AHfb,DataA2> урона, <AHfb,HeroDur2> сек. оглушения. |n|cffffcc003-й уровень:|r <AHfb,DataA3> урона, <AHfb,HeroDur3> сек. оглушения.|n|cffffcc004-й уровень:|r <AHfb,DataA4> урона, <AHfb,HeroDur4> сек. оглушения.|cffc0c0c0|n|nПерезарядка - <AHfb,Cool1>, <AHfb,Cool2>, <AHfb,Cool3>, <AHfb,Cool4> сек.|r
+}
+
+STRING 97
+// Abilities: AHfb (Fireball), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 98
+// Abilities: AHfb (Fireball), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 104
+// Abilities: AHrf (Огненный ливень), Tip (Tooltip - Normal)
+{
+Огненный ливень [|cffffcc004-й уровень|r]
+}
+
+STRING 105
+// Abilities: AHrf (Огненный ливень), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 106
+// Abilities: AHrf (Огненный ливень), Researchubertip (Tooltip - Learn - Extended)
+{
+Обрушивает на указанную область волны огня. Каждая волна наносит мгновенный, а затем периодический урон в течение <AHrf,Dur1> сек. |n|n|cffffcc001-й уровень:|r <AHrf,DataA1> волн, <AHrf,DataB1> урона мгновенно и <AHrf,DataE1> урона/сек. |n|cffffcc002-й уровень:|r <AHrf,DataA2> волн, <AHrf,DataB2> урона мгновенно и <AHrf,DataE2> урона/сек. |n|cffffcc003-й уровень:|r <AHrf,DataA3> волн, <AHrf,DataB3> урона мгновенно и <AHrf,DataE3> урона/сек. |n|cffffcc004-й уровень:|r <AHrf,DataA4> волн, <AHrf,DataB4> урона мгновенно и <AHrf,DataE4> урона/сек.|cffc0c0c0|n|nПерезарядка - <AHrf,Cool1>, <AHrf,Cool2>, <AHrf,Cool3>, <AHrf,Cool4> сек.|r
+}
+
+STRING 107
+// Abilities: AHrf (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волны огня. Каждая волна наносит <AHrf,DataB1> урона мгновенно и <AHrf,DataE1> урона/сек. в течение <AHrf,Dur1> сек. |nВолн – <AHrf,DataA1>.|cffc0c0c0|n|nПерезарядка - <AHrf,Cool1> сек.|r
+}
+
+STRING 108
+// Abilities: AHrf (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волны огня. Каждая волна наносит <AHrf,DataB2> урона мгновенно и <AHrf,DataE2> урона/сек. в течение <AHrf,Dur2> сек. |nВолн – <AHrf,DataA2>.|cffc0c0c0|n|nПерезарядка - <AHrf,Cool2> сек.|r
+}
+
+STRING 109
+// Abilities: AHrf (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волны огня. Каждая волна наносит <AHrf,DataB3> урона мгновенно и <AHrf,DataE3> урона/сек. в течение <AHrf,Dur3> сек. |nВолн – <AHrf,DataA3>.|cffc0c0c0|n|nПерезарядка - <AHrf,Cool3> сек.|r
+}
+
+STRING 110
+// Abilities: AHrf (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волны огня. Каждая волна наносит <AHrf,DataB4> урона мгновенно и <AHrf,DataE4> урона/сек. в течение <AHrf,Dur4> сек. |nВолн – <AHrf,DataA4>.|cffc0c0c0|n|nПерезарядка - <AHrf,Cool4> сек.|r
+}
+
+STRING 111
+// Abilities: AHrf (Огненный ливень), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 112
+// Abilities: AHfb (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня, наносящий <AHfb,DataA2> урона и оглушающий героев на <AHfb,HeroDur2> сек и не-героев на <AHfb,Dur2> сек.|cffc0c0c0|n|nПерезарядка - <AHfb,Cool2> сек.|r
+}
+
+STRING 113
+// Abilities: AHfb (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня, наносящий <AHfb,DataA3> урона и оглушающий героев на <AHfb,HeroDur3> сек и не-героев на <AHfb,Dur3> сек.|cffc0c0c0|n|nПерезарядка - <AHfb,Cool3> сек.|r
+}
+
+STRING 114
+// Abilities: AHfb (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня, наносящий <AHfb,DataA1> урона и оглушающий героев на <AHfb,HeroDur1> сек и не-героев на <AHfb,Dur1> сек.|cffc0c0c0|n|nПерезарядка - <AHfb,Cool1> сек.|r
+}
+
+STRING 115
+// Abilities: AHfb (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня, наносящий <AHfb,DataA4> урона и оглушающий героев на <AHfb,HeroDur4> сек и не-героев на <AHfb,Dur4> сек.|cffc0c0c0|n|nПерезарядка - <AHfb,Cool4> сек.|r
+}
+
+STRING 116
+// Units: Hprs (Priest), Name (Name)
+{
+Priest
+}
+
+STRING 117
+// Units: Hprs (Priest), Tip (Tooltip - Basic)
+{
+Summon Priest
+}
+
+STRING 118
+// Abilities: AHup (Unholy Pact), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 119
+// Abilities: AHpe (Penance), Researchtip (Tooltip - Learn)
+{
+Изучить «Исповедь» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 121
+// Abilities: AHpe (Penance), Tip (Tooltip - Normal)
+{
+Исповедь [|cffffcc002-й уровень|r]
+}
+
+STRING 122
+// Abilities: AHpe (Penance), Tip (Tooltip - Normal)
+{
+Исповедь [|cffffcc003-й уровень|r]
+}
+
+STRING 123
+// Abilities: AHpe (Penance), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 124
+// Abilities: AHpe (Penance), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 125
+// Abilities: AHpe (Penance), Name (Name)
+{
+Penance
+}
+
+STRING 130
+// Abilities: AHf1 (Fireball), Name (Name)
+{
+Fireball
+}
+
+STRING 131
+// Abilities: ADfb (Fireball slow), Name (Name)
+{
+Fireball slow
+}
+
+STRING 132
+// Abilities: ADfb (Fireball slow), EditorSuffix (Editor Suffix)
+{
+(dummy)
+}
+
+STRING 133
+// Buffs/Effects: BDfb (Fireball), EditorName (Name (Editor Only))
+{
+Fireball
+}
+
+STRING 134
+// Buffs/Effects: BDfb (Fireball), Bufftip (Tooltip)
+{
+Fireball
+}
+
+STRING 135
+// Buffs/Effects: BDfb (Fireball), Buffubertip (Tooltip - Extended)
+{
+Unit slowed.
+}
+
+STRING 136
+// Abilities: AHf1 (Fireball), Researchtip (Tooltip - Learn)
+{
+Изучить «Огненную стрелу» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 137
+// Abilities: AHf1 (Fireball), Researchubertip (Tooltip - Learn - Extended)
+{
+Выпускает сгусток огня в указанном направлении, наносящий урон и замедляющий первого вражеского юнита на пути.|n|n|cffffcc001-й уровень:|r 100 урона, <ADfb,HeroDur1,.> сек. замедления. |n|cffffcc002-й уровень:|r 200 урона, <ADfb,HeroDur2,.> сек. замедления. |n|cffffcc003-й уровень:|r 300 урона, <ADfb,HeroDur3,.> сек. замедления.|n|cffffcc004-й уровень:|r 400 урона, <ADfb,HeroDur4,.> сек. замедления.|cffc0c0c0|n|nПерезарядка - <AHf1,Cool1,.>, <AHf1,Cool2,.>, <AHf1,Cool3,.>, <AHf1,Cool4,.> сек.|r
+}
+
+STRING 139
+// Abilities: AHf1 (Fireball), Tip (Tooltip - Normal)
+{
+Огненная стрела [|cffffcc002-й уровень|r]
+}
+
+STRING 140
+// Abilities: AHf1 (Fireball), Tip (Tooltip - Normal)
+{
+Огненная стрела [|cffffcc003-й уровень|r]
+}
+
+STRING 141
+// Abilities: AHf1 (Fireball), Tip (Tooltip - Normal)
+{
+Огненная стрела [|cffffcc004-й уровень|r]
+}
+
+STRING 146
+// Abilities: AHfn (Frostnova), Researchubertip (Tooltip - Learn - Extended)
+{
+Поражает врагов в указанной области ледяной волной, замедляющей передвижение и атаку. |n|n|cffffcc001-й уровень:|r <ADfn,DataB1> урона. |n|cffffcc002-й уровень:|r <ADfn,DataB2> урона. |n|cffffcc003-й уровень:|r <ADfn,DataB3> урона.|n|cffffcc004-й уровень:|r <ADfn,DataB4> урона.|cffc0c0c0|n|nПерезарядка - <AHfn,Cool1,.>, <AHfn,Cool2,.>, <AHfn,Cool3,.>, <AHfn,Cool4,.> сек.|r
+}
+
+STRING 147
+// Abilities: AHfn (Frostnova), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB1> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur1,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool1,.> сек.|r
+}
+
+STRING 148
+// Abilities: AHfn (Frostnova), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB2> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur2,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool2,.> сек.|r
+}
+
+STRING 149
+// Abilities: AHfn (Frostnova), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB3> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur3,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool3,.> сек.|r
+}
+
+STRING 150
+// Abilities: AHfn (Frostnova), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB4> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur4,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool4,.> сек.|r
+}
+
+STRING 164
+// Abilities: AHpe (Penance), Tip (Tooltip - Normal)
+{
+Исповедь [|cffffcc004-й уровень|r]
+}
+
+STRING 166
+// Abilities: AHsh (Shield), Name (Name)
+{
+Shield
+}
+
+STRING 167
+// Abilities: AHsh (Shield), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 168
+// Abilities: AHsh (Shield), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 169
+// Abilities: AHsh (Shield), Researchtip (Tooltip - Learn)
+{
+Изучить «Щит» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 175
+// Abilities: AHsh (Shield), Tip (Tooltip - Normal)
+{
+Щит [|cffffcc002-й уровень|r]
+}
+
+STRING 176
+// Abilities: AHsh (Shield), Tip (Tooltip - Normal)
+{
+Щит [|cffffcc003-й уровень|r]
+}
+
+STRING 177
+// Abilities: AHsh (Shield), Tip (Tooltip - Normal)
+{
+Щит [|cffffcc004-й уровень|r]
+}
+
+STRING 178
+// Abilities: AHls (Lightspark), Name (Name)
+{
+Lightspark
+}
+
+STRING 179
+// Abilities: AHls (Lightspark), Researchtip (Tooltip - Learn)
+{
+Изучить «Вспышка света» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 184
+// Buffs/Effects: BHsh (Shield), EditorName (Name (Editor Only))
+{
+Shield
+}
+
+STRING 185
+// Abilities: AHsh (Shield), Tip (Tooltip - Normal)
+{
+Щит
+}
+
+STRING 186
+// Buffs/Effects: BHsh (Shield), Buffubertip (Tooltip - Extended)
+{
+Поглощает урон.
+}
+
+STRING 188
+// Abilities: AHls (Lightspark), Tip (Tooltip - Normal)
+{
+Вспышка света [|cffffcc002-й уровень|r]
+}
+
+STRING 189
+// Abilities: AHls (Lightspark), Tip (Tooltip - Normal)
+{
+Вспышка света [|cffffcc003-й уровень|r]
+}
+
+STRING 190
+// Abilities: AHls (Lightspark), Tip (Tooltip - Normal)
+{
+Вспышка света [|cffffcc004-й уровень|r]
+}
+
+STRING 191
+// Buffs/Effects: BHls (Spark), EditorName (Name (Editor Only))
+{
+Spark
+}
+
+STRING 192
+// Buffs/Effects: BHls (Spark), Bufftip (Tooltip)
+{
+Ослепление
+}
+
+STRING 203
+// Abilities: AHls (Lightspark), Researchubertip (Tooltip - Learn - Extended)
+{
+Исцеляет союзников в указанной области и ослепляет врагов. Размер области действия и время действия ослепления увеличиваются с каждым уровнем. |n|n|cffffcc001-й уровень:|r 80 ед. здоровья, <AHls,HeroDur1,.> сек. |n|cffffcc002-й уровень:|r 120 ед. здоровья, <AHls,HeroDur2,.> сек. |n|cffffcc003-й уровень:|r 160 ед. здоровья, <AHls,HeroDur3,.> сек.|n|cffffcc004-й уровень:|r 200 ед. здоровья, <AHls,HeroDur4,.> сек.|n|n|cffc0c0c0Перезарядка - <AHls,Cool1,.>, <AHls,Cool2,.>, <AHls,Cool3,.>, <AHls,Cool4,.> сек.|r
+}
+
+STRING 204
+// Abilities: AHls (Lightspark), Ubertip (Tooltip - Normal - Extended)
+{
+Исцеляет союзникам 80 ед. здоровья в области и ослепляет врагов в течение <AHls,HeroDur1,.> сек.|n|n|cffc0c0c0Перезарядка - <AHls,Cool1,.> сек.|r
+}
+
+STRING 205
+// Abilities: AHls (Lightspark), Ubertip (Tooltip - Normal - Extended)
+{
+Исцеляет союзникам 120 ед. здоровья в области и ослепляет врагов в течение <AHls,HeroDur2,.> сек.|n|n|cffc0c0c0Перезарядка - <AHls,Cool2,.> сек.|r
+}
+
+STRING 206
+// Abilities: AHls (Lightspark), Ubertip (Tooltip - Normal - Extended)
+{
+Исцеляет союзникам 160 ед. здоровья в области и ослепляет врагов в течение <AHls,HeroDur3,.> сек.|n|n|cffc0c0c0Перезарядка - <AHls,Cool3,.> сек.|r
+}
+
+STRING 207
+// Abilities: AHls (Lightspark), Ubertip (Tooltip - Normal - Extended)
+{
+Исцеляет союзникам 200 ед. здоровья в области и ослепляет врагов в течение <AHls,HeroDur4,.> сек.|n|n|cffc0c0c0Перезарядка - <AHls,Cool4,.> сек.|r
+}
+
+STRING 208
+// Abilities: AHsh (Shield), Researchubertip (Tooltip - Learn - Extended)
+{
+На 15 сек. укрывает союзника щитом, поглощающим урон. |n|n|cffffcc001-й уровень:|r 150 ед. урона. |n|cffffcc002-й уровень:|r 250 ед. урона. |n|cffffcc003-й уровень:|r 350 ед. урона.|n|cffffcc004-й уровень:|r 450 ед. урона.|n|n|cffc0c0c0Перезарядка - <AHsh,Cool1,.>, <AHsh,Cool2,.>, <AHsh,Cool3,.>, <AHsh,Cool4,.> сек.|r
+}
+
+STRING 209
+// Abilities: AHsh (Shield), Ubertip (Tooltip - Normal - Extended)
+{
+На 15 сек. укрывает союзника щитом, поглощающим 150 ед. урона. При повторном использовании на союзнике с щитом, увеличивает его прочность, но не более чем на 300 ед.|n|n|cffc0c0c0Перезарядка - <AHsh,Cool1,.> сек.|r
+}
+
+STRING 210
+// Abilities: AHsh (Shield), Ubertip (Tooltip - Normal - Extended)
+{
+На 15 сек. укрывает союзника щитом, поглощающим 250 ед. урона. При повторном использовании на союзнике с щитом, увеличивает его прочность, но не более чем на 500 ед.|n|n|cffc0c0c0Перезарядка - <AHsh,Cool2,.> сек.|r
+}
+
+STRING 211
+// Abilities: AHsh (Shield), Ubertip (Tooltip - Normal - Extended)
+{
+На 15 сек. укрывает союзника щитом, поглощающим 350 ед. урона. При повторном использовании на союзнике с щитом, увеличивает его прочность, но не более чем на 700 ед.|n|n|cffc0c0c0Перезарядка - <AHsh,Cool3,.> сек.|r
+}
+
+STRING 212
+// Abilities: AHsh (Shield), Ubertip (Tooltip - Normal - Extended)
+{
+На 15 сек. укрывает союзника щитом, поглощающим 450 ед. урона. При повторном использовании на союзнике с щитом, увеличивает его прочность, но не более чем на 900 ед.|n|n|cffc0c0c0Перезарядка - <AHsh,Cool4,.> сек.|r
+}
+
+STRING 213
+// Abilities: AHf1 (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня в указанном направлении, наносящий 100 ед. урона и замедляющий первого вражеского юнита на пути на <ADfb,HeroDur1,.> сек.|cffc0c0c0|n|nПерезарядка - <AHf1,Cool1,.> сек.|r
+}
+
+STRING 214
+// Abilities: AHf1 (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня в указанном направлении, наносящий 200 ед. урона и замедляющий первого вражеского юнита на пути на <ADfb,HeroDur2,.> сек.|cffc0c0c0|n|nПерезарядка - <AHf2,Cool2,.> сек.|r
+}
+
+STRING 215
+// Abilities: AHf1 (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня в указанном направлении, наносящий 300 ед. урона и замедляющий первого вражеского юнита на пути на <ADfb,HeroDur3,.> сек.|cffc0c0c0|n|nПерезарядка - <AHf3,Cool3,.> сек.|r
+}
+
+STRING 216
+// Abilities: AHf1 (Fireball), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток огня в указанном направлении, наносящий 400 ед. урона и замедляющий первого вражеского юнита на пути на <ADfb,HeroDur4,.> сек.|cffc0c0c0|n|nПерезарядка - <AHf4,Cool4,.> сек.|r
+}
+
+STRING 217
+// Abilities: AHf1 (Fireball), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 218
+// Abilities: AHf1 (Fireball), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 219
+// Abilities: AHgh (Great healing), Name (Name)
+{
+Great healing
+}
+
+STRING 220
+// Abilities: AHgh (Great healing), Researchtip (Tooltip - Learn)
+{
+Изучить «Великое исцеление» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 226
+// Abilities: AHgh (Great healing), Tip (Tooltip - Normal)
+{
+Великое исцеление [|cffffcc002-й уровень|r]
+}
+
+STRING 227
+// Abilities: AHgh (Great healing), Tip (Tooltip - Normal)
+{
+Великое исцеление [|cffffcc003-й уровень|r]
+}
+
+STRING 228
+// Abilities: AHgh (Great healing), Researchhotkey (Hotkey - Learn)
+{
+R
+}
+
+STRING 229
+// Abilities: AHgh (Great healing), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 230
+// Abilities: AHgh (Great healing), Researchubertip (Tooltip - Learn - Extended)
+{
+После подготовки жрец исцеляет союзнику здоровье. |n|n|cffffcc001-й уровень:|r <AHgh,DataA1> здоровья, <AHgh,Cast1,.> сек. подготовки. |n|cffffcc002-й уровень:|r <AHgh,DataA2> здоровья, <AHgh,Cast2,.> сек. подготовки. |n|cffffcc003-й уровень:|r <AHgh,DataA3> здоровья, <AHgh,Cast3,.> сек. подготовки.|n|n|cffc0c0c0Перезарядка - <AHgh,Cool1,.>, <AHgh,Cool2,.>, <AHgh,Cool3,.> сек.|r
+}
+
+STRING 231
+// Abilities: AHgh (Great healing), Ubertip (Tooltip - Normal - Extended)
+{
+После подготовки в <AHgh,Cast1,.> сек. исцеляет союзнику <AHgh,DataA1> здоровья.|n|n|cffc0c0c0Перезарядка - <AHgh,Cool1,.> сек.|r
+}
+
+STRING 232
+// Abilities: AHgh (Great healing), Ubertip (Tooltip - Normal - Extended)
+{
+После подготовки в <AHgh,Cast2,.> сек. исцеляет союзнику <AHgh,DataA2> здоровья.|n|n|cffc0c0c0Перезарядка - <AHgh,Cool2,.> сек.|r
+}
+
+STRING 233
+// Abilities: AHgh (Great healing), Ubertip (Tooltip - Normal - Extended)
+{
+После подготовки в <AHgh,Cast3,.> сек. исцеляет союзнику <AHgh,DataA3> здоровья.|n|n|cffc0c0c0Перезарядка - <AHgh,Cool3,.> сек.|r
+}
+
+STRING 234
+// Units: turr (Turret), Name (Name)
+{
+Turret
+}
+
+STRING 235
+{
+%u-й уровень
+}
+
+STRING 236
+// Abilities: AHpe (Penance), Researchubertip (Tooltip - Learn - Extended)
+{
+|cff008080П|r|cff1b8d72о|r|cff379b64т|r|cff54aa55о|r|cff70b847к|r|cff8cc539о|r|cffa9d42bв|r|cffc5e21dо|r|cffe1f00fе|r|cfffefe00 |r|nРаз в секунду воостанавливает цели здоворье, если цель союзник, или наносит урон, если цель враг. Исцеление и урон зависят от интеллекта героя.|n|n|cffffcc001-й уровень:|r 1 множитель исцеления, 0.7 множитель урона.|n|cffffcc002-й уровень:|r 1.5 множитель исцеления, 1 множитель урона.|n|cffffcc003-й уровень:|r 2 множитель исцеления, 1.3 множитель урона.|n|cffffcc004-й уровень:|r 2.5 множитель исцеления, 1.6 множитель урона.|n|n|cffc0c0c0Перезарядка - <AHpe,Cool1,.>, <AHpe,Cool2,.>, <AHpe,Cool3,.>, <AHpe,Cool4,.> сек.|r
+}
+
+STRING 237
+// Abilities: AHpe (Penance), Ubertip (Tooltip - Normal - Extended)
+{
+|cff008080П|r|cff1b8d72о|r|cff379b64т|r|cff54aa55о|r|cff70b847к|r|cff8cc539о|r|cffa9d42bв|r|cffc5e21dо|r|cffe1f00fе|r|cfffefe00 |r|nРаз в секунду восстанавливает цели 1*интеллект героя ед. здоровья, если цель союзник, или наносит 0.7*интеллект героя ед. урона, если цель враг.|n|n|cffc0c0c0Перезарядка - <AHpe,Cool1,.> сек.|r
+}
+
+STRING 238
+// Abilities: AHpe (Penance), Ubertip (Tooltip - Normal - Extended)
+{
+|cff008080П|r|cff1b8d72о|r|cff379b64т|r|cff54aa55о|r|cff70b847к|r|cff8cc539о|r|cffa9d42bв|r|cffc5e21dо|r|cffe1f00fе|r|cfffefe00 |r|nРаз в секунду восстанавливает цели 1.5*интеллект героя ед. здоровья, если цель союзник, или наносит 1*интеллект героя ед. урона, если цель враг.|n|n|cffc0c0c0Перезарядка - <AHpe,Cool2,.> сек.|r
+}
+
+STRING 239
+// Abilities: AHpe (Penance), Ubertip (Tooltip - Normal - Extended)
+{
+|cff008080П|r|cff1b8d72о|r|cff379b64т|r|cff54aa55о|r|cff70b847к|r|cff8cc539о|r|cffa9d42bв|r|cffc5e21dо|r|cffe1f00fе|r|cfffefe00 |r|nРаз в секунду восстанавливает цели 2*интеллект героя ед. здоровья, если цель союзник, или наносит 1.3*интеллект героя ед. урона, если цель враг.|n|n|cffc0c0c0Перезарядка - <AHpe,Cool3,.> сек.|r
+}
+
+STRING 240
+// Abilities: AHpe (Penance), Ubertip (Tooltip - Normal - Extended)
+{
+|cff008080П|r|cff1b8d72о|r|cff379b64т|r|cff54aa55о|r|cff70b847к|r|cff8cc539о|r|cffa9d42bв|r|cffc5e21dо|r|cffe1f00fе|r|cfffefe00 |r|nРаз в секунду восстанавливает цели 2.5*интеллект героя ед. здоровья, если цель союзник, или наносит 1.6*интеллект героя ед. урона, если цель враг.|n|n|cffc0c0c0Перезарядка - <AHpe,Cool4,.> сек.|r
+}
+
+STRING 241
+// Units: cart (Cart), Name (Name)
+{
+Cart
+}
+
+STRING 242
+// Abilities: ADba (Black arrow), Name (Name)
+{
+Black arrow
+}
+
+STRING 243
+// Abilities: AHba (Black arrow), Tip (Tooltip - Normal)
+{
+Черная стрела [|cffffcc004-й уровень|r]
+}
+
+STRING 249
+// Abilities: AHba (Black arrow), Researchhotkey (Hotkey - Learn)
+{
+Q
+}
+
+STRING 250
+// Abilities: AHba (Black arrow), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 251
+// Units: targ (Target), Name (Name)
+{
+Target
+}
+
+STRING 252
+// Abilities: AHba (Black arrow), Tip (Tooltip - Normal)
+{
+Черная стрела
+}
+
+STRING 253
+// Abilities: AHba (Black arrow), Name (Name)
+{
+Black arrow
+}
+
+STRING 254
+// Abilities: AHba (Black arrow), Ubertip (Tooltip - Normal - Extended)
+{
++<AHba,DataA1> к урону от атак. Каждая атака накладывает заряд тьмы на противника. При достижении 5 зарядов, противник взрывается, получая урон в размере 7% от макс. запаса здоровья.
+}
+
+STRING 255
+// Abilities: AHba (Black arrow), Ubertip (Tooltip - Normal - Extended)
+{
++<AHba,DataA2> к урону от атак. Каждая атака накладывает заряд тьмы на противника. При достижении 5 зарядов, противник взрывается, получая урон в размере 7% от макс. запаса здоровья.
+}
+
+STRING 256
+// Abilities: AHba (Black arrow), Ubertip (Tooltip - Normal - Extended)
+{
++<AHba,DataA3> к урону от атак. Каждая атака накладывает заряд тьмы на противника. При достижении 5 зарядов, противник взрывается, получая урон в размере 7% от макс. запаса здоровья.
+}
+
+STRING 257
+// Abilities: AHba (Black arrow), Ubertip (Tooltip - Normal - Extended)
+{
++<AHba,DataA4> к урону от атак. Каждая атака накладывает заряд тьмы на противника. При достижении 5 зарядов, противник взрывается, получая урон в размере 7% от макс. запаса здоровья.
+}
+
+STRING 258
+// Abilities: AHba (Black arrow), Researchubertip (Tooltip - Learn - Extended)
+{
+Увеличивает урон от атак и накладывает заряд тьмы на противника. При достижении 5 зарядов, противник взрывается, получая урон в размере 7% от макс. запаса здоровья. |n|n|cffffcc001-й уровень:|r +<AHba,DataA1> к урону. |n|cffffcc002-й уровень:|r +<AHba,DataA2> к урону. |n|cffffcc003-й уровень:|r +<AHba,DataA3> к урону. |n|cffffcc004-й уровень:|r +<AHba,DataA4> к урону.
+}
+
+STRING 259
+// Abilities: AHsb (Shadow bolt), Name (Name)
+{
+Shadow bolt
+}
+
+STRING 260
+// Abilities: AHsb (Shadow bolt), Researchtip (Tooltip - Learn)
+{
+Изучить «Стрелу тьмы» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 263
+// Abilities: AHsb (Shadow bolt), Tip (Tooltip - Normal)
+{
+Стрела тьмы [|cffffcc002-й уровень|r]
+}
+
+STRING 264
+// Abilities: AHsb (Shadow bolt), Tip (Tooltip - Normal)
+{
+Стрела тьмы [|cffffcc003-й уровень|r]
+}
+
+STRING 265
+// Abilities: AHsb (Shadow bolt), Tip (Tooltip - Normal)
+{
+Стрела тьмы [|cffffcc004-й уровень|r]
+}
+
+STRING 272
+// Abilities: AHsb (Shadow bolt), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 273
+// Abilities: AHsb (Shadow bolt), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 280
+// Abilities: ADsb (Shadowbolt), Name (Name)
+{
+Shadowbolt
+}
+
+STRING 282
+// Abilities: AHba (Black arrow), Researchtip (Tooltip - Learn)
+{
+Изучить «Черную стрелу» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 284
+// Abilities: AHba (Black arrow), Unhotkey (Hotkey - Turn Off)
+{
+Q
+}
+
+STRING 287
+// Abilities: AHba (Black arrow), Tip (Tooltip - Normal)
+{
+Черная стрела [|cffffcc002-й уровень|r]
+}
+
+STRING 288
+// Abilities: AHba (Black arrow), Tip (Tooltip - Normal)
+{
+Черная стрела [|cffffcc003-й уровень|r]
+}
+
+STRING 295
+// Abilities: AHsb (Shadow bolt), Researchubertip (Tooltip - Learn - Extended)
+{
+Выпускает сгусток тьмы в указанном направлении, наносящий урон и накладывающий немоту на всех проивников на своем пути. |nНакладывает один заряд стрел тьмы на 10 сек.|n|n|cffffcc001-й уровень:|r 40 урона, <ADsb,HeroDur1,.> сек. немоты. |n|cffffcc002-й уровень:|r 80 урона, <ADsb,HeroDur2,.> сек. немоты. |n|cffffcc003-й уровень:|r 120 урона, <ADsb,HeroDur3,.> сек. немоты.|n|cffffcc004-й уровень:|r 160 урона, <ADsb,HeroDur4,.> сек. немоты.|cffc0c0c0|n|nПерезарядка - <AHsb,Cool1,.>, <AHsb,Cool2,.>, <AHsb,Cool3,.>, <AHsb,Cool4,.> сек.|r
+}
+
+STRING 296
+// Abilities: AHsb (Shadow bolt), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток тьмы в указанном направлении, наносящий 40 ед. урона и накладывающий немоту на <ADsb,HeroDur1,.> сек. на всех проивников на своем пути. |nНакладывает один заряд стрел тьмы на 10 сек.|cffc0c0c0|n|nПерезарядка - <AHsb,Cool1,.> сек.|r
+}
+
+STRING 297
+// Abilities: AHsb (Shadow bolt), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток тьмы в указанном направлении, наносящий 80 ед. урона и накладывающий немоту на <ADsb,HeroDur2,.> сек. на всех проивников на своем пути. |nНакладывает один заряд стрел тьмы на 10 сек.|cffc0c0c0|n|nПерезарядка - <AHsb,Cool2,.> сек.|r
+}
+
+STRING 298
+// Abilities: AHsb (Shadow bolt), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток тьмы в указанном направлении, наносящий 120 ед. урона и накладывающий немоту на <ADsb,HeroDur3,.> сек. на всех проивников на своем пути. |nНакладывает один заряд стрел тьмы на 10 сек.|cffc0c0c0|n|nПерезарядка - <AHsb,Cool3,.> сек.|r
+}
+
+STRING 299
+// Abilities: AHsb (Shadow bolt), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает сгусток тьмы в указанном направлении, наносящий 160 ед. урона и накладывающий немоту на <ADsb,HeroDur4,.> сек. на всех проивников на своем пути. |nНакладывает один заряд стрел тьмы на 10 сек.|cffc0c0c0|n|nПерезарядка - <AHsb,Cool4,.> сек.|r
+}
+
+STRING 305
+// Abilities: AHbb (Banshee blink), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 306
+// Abilities: AHbb (Banshee blink), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 307
+// Abilities: AHbb (Banshee blink), Researchtip (Tooltip - Learn)
+{
+Изучить «Банши» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 314
+// Abilities: AHbb (Banshee blink), Tip (Tooltip - Normal)
+{
+Банши [|cffffcc002-й уровень|r]
+}
+
+STRING 315
+// Abilities: AHbb (Banshee blink), Tip (Tooltip - Normal)
+{
+Банши [|cffffcc003-й уровень|r]
+}
+
+STRING 316
+// Abilities: AHbb (Banshee blink), Tip (Tooltip - Normal)
+{
+Банши [|cffffcc004-й уровень|r]
+}
+
+STRING 325
+// Abilities: AHbb (Banshee blink), Name (Name)
+{
+Banshee blink
+}
+
+STRING 328
+// Abilities: ADbb (Banshee fear), Name (Name)
+{
+Banshee fear
+}
+
+STRING 329
+// Abilities: AHbb (Banshee blink), Researchubertip (Tooltip - Learn - Extended)
+{
+Охотница перевоплощается в банши, быстро перемещаясь в указанную точку. Враги в начальной и конечной точках теряют способность атаковать и применять заклинания на 1.5 сек. |n|n|cffffcc001-й уровень:|r <AHbb,Cool1> сек. восстановления, <AHbb,Cost1> маны. |n|cffffcc001-й уровень:|r <AHbb,Cool2> сек. восстановления, <AHbb,Cost2> маны. |n|cffffcc003-й уровень:|r <AHbb,Cool3> сек. восстановления, <AHbb,Cost3> маны.|n|cffffcc004-й уровень:|r <AHbb,Cool4> сек. восстановления, <AHbb,Cost4> маны.
+}
+
+STRING 330
+// Abilities: AHbb (Banshee blink), Ubertip (Tooltip - Normal - Extended)
+{
+Охотница перевоплощается в банши, быстро перемещаясь в указанную точку. Враги в начальной и конечной точках теряют способность атаковать и применять заклинания на 1.5 сек.|cffc0c0c0|n|nПерезарядка - <AHbb,Cool1,.> сек.|r
+}
+
+STRING 331
+// Abilities: AHbb (Banshee blink), Ubertip (Tooltip - Normal - Extended)
+{
+Охотница перевоплощается в банши, быстро перемещаясь в указанную точку. Враги в начальной и конечной точках теряют способность атаковать и применять заклинания на 1.5 сек.|cffc0c0c0|n|nПерезарядка - <AHbb,Cool2,.> сек.|r
+}
+
+STRING 332
+// Abilities: AHbb (Banshee blink), Ubertip (Tooltip - Normal - Extended)
+{
+Охотница перевоплощается в банши, быстро перемещаясь в указанную точку. Враги в начальной и конечной точках теряют способность атаковать и применять заклинания на 1.5 сек.|cffc0c0c0|n|nПерезарядка - <AHbb,Cool3,.> сек.|r
+}
+
+STRING 333
+// Abilities: AHbb (Banshee blink), Ubertip (Tooltip - Normal - Extended)
+{
+Охотница перевоплощается в банши, быстро перемещаясь в указанную точку. Враги в начальной и конечной точках теряют способность атаковать и применять заклинания на 1.5 сек.|cffc0c0c0|n|nПерезарядка - <AHbb,Cool4,.> сек.|r
+}
+
+STRING 335
+// Abilities: AHup (Unholy Pact), Researchubertip (Tooltip - Learn - Extended)
+{
+Увеличивает скорость атаки героя на <AHup,DataB1,%>% на 5 следующих атак, забирая у противника ману. При применении забирает у героя 20% текущего здоровья. |nВремя действия - <AHup,HeroDur1,.> сек.|n|n|cffffcc001-й уровень:|r 4% маны. |n|cffffcc002-й уровень:|r 5% маны. |n|cffffcc003-й уровень:|r 6% маны.|n|cffffcc004-й уровень:|r 7% маны. |cffc0c0c0|n|nПерезарядка - <AHup,Cool1,.>, <AHup,Cool2,.>, <AHup,Cool3,.>, <AHup,Cool4,.> сек.|r
+}
+
+STRING 336
+// Abilities: AHup (Unholy Pact), Ubertip (Tooltip - Normal - Extended)
+{
+Увеличивает скорость атаки героя на <AHup,DataB1,%>% на 5 следующих атак, забирая у противника 4% от максимальный маны. При применении забирает у героя 20% текущего здоровья. |nВремя действия - <AHup,HeroDur1,.> сек. |cffc0c0c0|n|nПерезарядка - <AHup,Cool1,.> сек.|r
+}
+
+STRING 337
+// Abilities: AHup (Unholy Pact), Ubertip (Tooltip - Normal - Extended)
+{
+Увеличивает скорость атаки героя на <AHup,DataB2,%>% на 5 следующих атак, забирая у противника 5% от максимальный маны. При применении забирает у героя 20% текущего здоровья. |nВремя действия - <AHup,HeroDur2,.> сек. |cffc0c0c0|n|nПерезарядка - <AHup,Cool2,.> сек.|r
+}
+
+STRING 338
+// Abilities: AHup (Unholy Pact), Ubertip (Tooltip - Normal - Extended)
+{
+Увеличивает скорость атаки героя на <AHup,DataB3,%>% на 5 следующих атак, забирая у противника 6% от максимальный маны. При применении забирает у героя 20% текущего здоровья. |nВремя действия - <AHup,HeroDur3,.> сек. |cffc0c0c0|n|nПерезарядка - <AHup,Cool3,.> сек.|r
+}
+
+STRING 339
+// Abilities: AHup (Unholy Pact), Ubertip (Tooltip - Normal - Extended)
+{
+Увеличивает скорость атаки героя на <AHup,DataB4,%>% на 5 следующих атак, забирая у противника 7% от максимальный маны. При применении забирает у героя 20% текущего здоровья. |nВремя действия - <AHup,HeroDur4,.> сек. |cffc0c0c0|n|nПерезарядка - <AHup,Cool4,.> сек.|r
+}
+
+STRING 340
+// Buffs/Effects: BHup (Unholy pact), Buffubertip (Tooltip - Extended)
+{
+Скорость атаки увеличена. Каждая атака похищает ману.
+}
+
+STRING 341
+// Abilities: ADis (Breath of frost), Name (Name)
+{
+Breath of frost
+}
+
+STRING 342
+// Abilities: ADis (Breath of frost), Researchtip (Tooltip - Learn)
+{
+Изучить «Ледяное дыхание» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 343
+// Abilities: ADis (Breath of frost), Tip (Tooltip - Normal)
+{
+Ледяное дыхание [|cffffcc001-й уровень|r]
+}
+
+STRING 344
+// Abilities: ADis (Breath of frost), Tip (Tooltip - Normal)
+{
+Ледяное дыхание [|cffffcc002-й уровень|r]
+}
+
+STRING 345
+// Abilities: ADis (Breath of frost), Tip (Tooltip - Normal)
+{
+Ледяное дыхание [|cffffcc003-й уровень|r]
+}
+
+STRING 346
+// Abilities: ADis (Breath of frost), Tip (Tooltip - Normal)
+{
+Ледяное дыхание [|cffffcc004-й уровень|r]
+}
+
+STRING 347
+// Abilities: ADis (Breath of frost), Ubertip (Tooltip - Normal - Extended)
+{
+Выдыхает ледяной воздух в секторе перед собой, нанося врагам <AHbf,DataA1> урона мгновенно и <AHbf,DataE1> урона/сек. в течение <AHbf,Dur1> сек.
+}
+
+STRING 348
+// Abilities: ADis (Breath of frost), Ubertip (Tooltip - Normal - Extended)
+{
+Выдыхает ледяной воздух в секторе перед собой, нанося врагам <AHbf,DataA2> урона мгновенно и <AHbf,DataE2> урона/сек. в течение <AHbf,Dur2> сек.
+}
+
+STRING 349
+// Abilities: ADis (Breath of frost), Ubertip (Tooltip - Normal - Extended)
+{
+Выдыхает ледяной воздух в секторе перед собой, нанося врагам <AHbf,DataA3> урона мгновенно и <AHbf,DataE3> урона/сек. в течение <AHbf,Dur3> сек.
+}
+
+STRING 350
+// Abilities: ADis (Breath of frost), Ubertip (Tooltip - Normal - Extended)
+{
+Выдыхает ледяной воздух в секторе перед собой, нанося врагам <AHbf,DataA4> урона мгновенно и <AHbf,DataE4> урона/сек. в течение <AHbf,Dur4> сек.
+}
+
+STRING 351
+// Abilities: ADis (Breath of frost), Researchubertip (Tooltip - Learn - Extended)
+{
+Выдыхает ледяной воздух в секторе перед собой, нанося врагам <AHbf,DataA1> урона мгновенно и <AHbf,DataE1> урона/сек. в течение <AHbf,Dur1> сек.
+}
+
+STRING 352
+// Abilities: AHis (Ice shard), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 353
+// Abilities: AHis (Ice shard), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 354
+// Abilities: AHis (Ice shard), Name (Name)
+{
+Ice shard
+}
+
+STRING 356
+// Abilities: AHis (Ice shard), Researchubertip (Tooltip - Learn - Extended)
+{
+Поражает врагов в указанной области ледяной волной, замедляющей передвижение и атаку. |n|n|cffffcc001-й уровень:|r <ADfn,DataB1> урона. |n|cffffcc002-й уровень:|r <ADfn,DataB2> урона. |n|cffffcc003-й уровень:|r <ADfn,DataB3> урона.|n|cffffcc004-й уровень:|r <ADfn,DataB4> урона.|cffc0c0c0|n|nПерезарядка - <AHfn,Cool1,.>, <AHfn,Cool2,.>, <AHfn,Cool3,.>, <AHfn,Cool4,.> сек.|r
+}
+
+STRING 360
+// Abilities: AHis (Ice shard), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB1> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur1,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool1,.> сек.|r
+}
+
+STRING 361
+// Abilities: AHis (Ice shard), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB2> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur2,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool2,.> сек.|r
+}
+
+STRING 362
+// Abilities: AHis (Ice shard), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB3> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur3,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool3,.> сек.|r
+}
+
+STRING 363
+// Abilities: AHrs (Release shard), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 364
+// Abilities: AHrs (Release shard), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 365
+// Abilities: AHis (Ice shard), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB4> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur4,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool4,.> сек.|r
+}
+
+STRING 367
+// Abilities: AHis (Ice shard), Researchtip (Tooltip - Learn)
+{
+Изучить «Ледяной осколок» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 369
+// Abilities: AHis (Ice shard), Tip (Tooltip - Normal)
+{
+Ледяной осколок [|cffffcc002-й уровень|r]
+}
+
+STRING 370
+// Abilities: AHis (Ice shard), Tip (Tooltip - Normal)
+{
+Ледяной осколок [|cffffcc003-й уровень|r]
+}
+
+STRING 371
+// Abilities: AHis (Ice shard), Tip (Tooltip - Normal)
+{
+Ледяной осколок [|cffffcc004-й уровень|r]
+}
+
+STRING 373
+// Abilities: AHrs (Release shard), Researchtip (Tooltip - Learn)
+{
+Изучить «Ледяной осколок» [|cffffcc00%d-й уровень|r]
+}
+
+STRING 374
+// Abilities: AHrs (Release shard), Researchubertip (Tooltip - Learn - Extended)
+{
+Поражает врагов в указанной области ледяной волной, замедляющей передвижение и атаку. |n|n|cffffcc001-й уровень:|r <ADfn,DataB1> урона. |n|cffffcc002-й уровень:|r <ADfn,DataB2> урона. |n|cffffcc003-й уровень:|r <ADfn,DataB3> урона.|n|cffffcc004-й уровень:|r <ADfn,DataB4> урона.|cffc0c0c0|n|nПерезарядка - <AHfn,Cool1,.>, <AHfn,Cool2,.>, <AHfn,Cool3,.>, <AHfn,Cool4,.> сек.|r
+}
+
+STRING 375
+// Abilities: AHrs (Release shard), Name (Name)
+{
+Release shard
+}
+
+STRING 376
+// Abilities: AHrs (Release shard), Tip (Tooltip - Normal)
+{
+Ледяной осколок [|cffffcc002-й уровень|r]
+}
+
+STRING 377
+// Abilities: AHrs (Release shard), Tip (Tooltip - Normal)
+{
+Ледяной осколок [|cffffcc003-й уровень|r]
+}
+
+STRING 378
+// Abilities: AHrs (Release shard), Ubertip (Tooltip - Normal - Extended)
+{
+Releasing ice shard that deals frost damage to nearby enemies.
+}
+
+STRING 379
+// Abilities: AHrs (Release shard), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB2> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur2,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool2,.> сек.|r
+}
+
+STRING 380
+// Abilities: AHrs (Release shard), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB3> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur3,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool3,.> сек.|r
+}
+
+STRING 381
+// Abilities: ADis (Breath of frost), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 382
+// Abilities: ADis (Breath of frost), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 383
+// Abilities: AHrs (Release shard), Ubertip (Tooltip - Normal - Extended)
+{
+Выпускает ледяную волну, нанося <ADfn,DataB4> урона по области. Урон от льда замедляет передвижение и атаку целей на <ADfn,HeroDur4,.> сек.|cffc0c0c0|n|nПерезарядка - <AHfs,Cool4,.> сек.|r
+}
+
+STRING 384
+// Abilities: AHrs (Release shard), Tip (Tooltip - Normal)
+{
+Ледяной осколок [|cffffcc004-й уровень|r]
+}
+
+STRING 385
+// Abilities: AHrs (Release shard), Tip (Tooltip - Normal)
+{
+Release shard
+}
+
+STRING 386
+// Abilities: AHfr (Морозный доспех), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 387
+// Abilities: AHfr (Морозный доспех), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 388
+// Abilities: AHfr (Морозный доспех), Tip (Tooltip - Normal)
+{
+Морозный доспех [|cffffcc004-й уровень|r]
+}
+
+STRING 389
+// Abilities: AHfr (Морозный доспех), Ubertip (Tooltip - Normal - Extended)
+{
+Укрывает союзника ледяным щитом, который дает +<AHfr,DataB1> к броне и замедляет атакующие его в ближнем бою войска на <AHfr,Dur1> сек. |nВремя действия: <AHfr,DataA1> сек. |cffc0c0c0|n|nПерезарядка - <AHfr,Cool1,.> сек.|r
+}
+
+STRING 390
+// Abilities: AHfr (Морозный доспех), Ubertip (Tooltip - Normal - Extended)
+{
+Укрывает союзника ледяным щитом, который дает +<AHfr,DataB2> к броне и замедляет атакующие его в ближнем бою войска на <AHfr,Dur2> сек. |nВремя действия: <AHfr,DataA2> сек. |cffc0c0c0|n|nПерезарядка - <AHfr,Cool2,.> сек.|r
+}
+
+STRING 391
+// Abilities: AHfr (Морозный доспех), Ubertip (Tooltip - Normal - Extended)
+{
+Укрывает союзника ледяным щитом, который дает +<AHfr,DataB3> к броне и замедляет атакующие его в ближнем бою войска на <AHfr,Dur3> сек. |nВремя действия: <AHfr,DataA3> сек. |cffc0c0c0|n|nПерезарядка - <AHfr,Cool3,.> сек.|r
+}
+
+STRING 392
+// Abilities: AHfr (Морозный доспех), Ubertip (Tooltip - Normal - Extended)
+{
+Укрывает союзника ледяным щитом, который дает +<AHfr,DataB4> к броне и замедляет атакующие его в ближнем бою войска на <AHfr,Dur4> сек. |nВремя действия: <AHfr,DataA4> сек. |cffc0c0c0|n|nПерезарядка - <AHfr,Cool4,.> сек.|r
+}
+
+STRING 393
+// Abilities: AHfr (Морозный доспех), Researchubertip (Tooltip - Learn - Extended)
+{
+Укрывает союзника ледяным щитом, который дает +<AHfr,DataB1> к броне и замедляет атакующие его в ближнем бою войска. |n|n|cffffcc001-й уровень:|r <AHfr,DataA1> сек. |n|cffffcc002-й уровень:|r <AHfr,DataA2> сек. |n|cffffcc003-й уровень:|r <AHfr,DataA3> сек. |n|cffffcc004-й уровень:|r <AHfr,DataA4> сек. |cffc0c0c0|n|nПерезарядка - <AHfr,Cool1,.>, <AHfr,Cool2,.>, <AHfr,Cool3,.>, <AHfr,Cool4,.> сек.|r
+}
+
+STRING 394
+// Abilities: AHr2 (Огненный ливень), Tip (Tooltip - Normal)
+{
+Огненный ливень [|cffffcc004-й уровень|r]
+}
+
+STRING 395
+// Abilities: AHr2 (Огненный ливень), Researchhotkey (Hotkey - Learn)
+{
+W
+}
+
+STRING 401
+// Abilities: AHr2 (Огненный ливень), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 402
+// Abilities: AHr2 (Огненный ливень), EditorSuffix (Editor Suffix)
+{
+(charged)
+}
+
+STRING 403
+// Abilities: AHf1 (Fireball), EditorSuffix (Editor Suffix)
+{
+(no target)
+}
+
+STRING 404
+// Abilities: AHr2 (Огненный ливень), Researchubertip (Tooltip - Learn - Extended)
+{
+Обрушивает на указанную область волну огня. |n4 заряда. |n|n|cffffcc001-й уровень:|r <AHr2,DataB1> урона. |n|cffffcc002-й уровень:|r <AHr2,DataB2> урона. |n|cffffcc003-й уровень:|r <AHr2,DataB3> урона. |n|cffffcc004-й уровень:|r <AHr2,DataB4> урона.|cffc0c0c0|n|nПерезарядка - <AHr2,Cool1,.>, <AHr2,Cool2,.>, <AHr2,Cool3,.>, <AHr2,Cool4,.> сек.|r
+}
+
+STRING 406
+// Abilities: AHr2 (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волну огня, нанося <AHr2,DataB2> урона. |n4 заряда.|cffc0c0c0|n|nПерезарядка - <AHr2,Cool2> сек.|r
+}
+
+STRING 407
+// Abilities: AHr2 (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волну огня, нанося <AHr2,DataB3> урона. |n4 заряда.|cffc0c0c0|n|nПерезарядка - <AHr2,Cool3> сек.|r
+}
+
+STRING 408
+// Abilities: AHr2 (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волну огня, нанося <AHr2,DataB4> урона. |n4 заряда.|cffc0c0c0|n|nПерезарядка - <AHr2,Cool4> сек.|r
+}
+
+STRING 409
+// Abilities: AHwb (Water blow), Name (Name)
+{
+Water blow
+}
+
+STRING 410
+// Abilities: AHwb (Water blow), Hotkey (Hotkey - Normal)
+{
+E
+}
+
+STRING 411
+// Abilities: AHwb (Water blow), Researchhotkey (Hotkey - Learn)
+{
+E
+}
+
+STRING 412
+// Abilities: AHfn (Frostnova), Tip (Tooltip - Normal)
+{
+Кольцо льда
+}
+
+STRING 413
+// Abilities: AHup (Unholy Pact), Tip (Tooltip - Normal)
+{
+Нечистивый союз
+}
+
+STRING 414
+// Abilities: AHrf (Огненный ливень), Tip (Tooltip - Normal)
+{
+Огненный ливень
+}
+
+STRING 415
+// Abilities: AHpe (Penance), Tip (Tooltip - Normal)
+{
+Исповедь
+}
+
+STRING 416
+// Abilities: AHf1 (Fireball), Tip (Tooltip - Normal)
+{
+Огненная стрела
+}
+
+STRING 417
+// Abilities: AHls (Lightspark), Tip (Tooltip - Normal)
+{
+Вспышка света
+}
+
+STRING 418
+// Abilities: AHgh (Great healing), Tip (Tooltip - Normal)
+{
+Великое исцеление
+}
+
+STRING 419
+// Abilities: AHsb (Shadow bolt), Tip (Tooltip - Normal)
+{
+Стрела тьмы
+}
+
+STRING 420
+// Abilities: AHbb (Banshee blink), Tip (Tooltip - Normal)
+{
+Банши
+}
+
+STRING 421
+// Abilities: AHis (Ice shard), Tip (Tooltip - Normal)
+{
+Ледяной осколок
+}
+
+STRING 422
+// Abilities: AHfr (Морозный доспех), Tip (Tooltip - Normal)
+{
+Морозный доспех
+}
+
+STRING 423
+// Abilities: AHr2 (Огненный ливень), Tip (Tooltip - Normal)
+{
+Огненный ливень
+}
+
+STRING 424
+// Buffs/Effects: BHsh (Shield), Bufftip (Tooltip)
+{
+Щит
+}
+
+STRING 425
+// Buffs/Effects: BHba (Черная стрела), EditorName (Name (Editor Only))
+{
+Черная стрела
+}
+
+STRING 426
+// Abilities: AHr2 (Огненный ливень), Ubertip (Tooltip - Normal - Extended)
+{
+Обрушивает на указанную область волну огня, нанося <AHr2,DataB1> урона.|n|nСпособность имеет 4 заряда.|cffc0c0c0|n|nПерезарядка - <AHr2,Cool1> сек.|r
+}
+
+STRING 427
+// Abilities: AHh2 (Свет небес), Ubertip (Tooltip - Normal - Extended)
+{
+Восполняет <AHh2,DataA1> здоровья живому союзнику или наносит вдвое меньше урона врагу-нежити.
+}
+
+STRING 428
+// Abilities: AHh2 (Свет небес), Tip (Tooltip - Normal)
+{
+Свет небес
+}
+
+STRING 429
+// Abilities: AHd2 (Божественный щит), Ubertip (Tooltip - Normal - Extended)
+{
+Дает щит, защищающий от урона и способностей, на <AHd2,Dur1> сек.
+}
+
+STRING 430
+// Abilities: AHd2 (Божественный щит), Tip (Tooltip - Normal)
+{
+Божественный щит
+}
+
+STRING 431
+// Abilities: AHa2 (Аура благочестия), Ubertip (Tooltip - Normal - Extended)
+{
++<AHa2,DataA1,.> к броне находящихся рядом союзников.
+}
+
+STRING 432
+// Abilities: AHa2 (Аура благочестия), Tip (Tooltip - Normal)
+{
+Аура благочестия
+}
+
+STRING 433
+// Abilities: AHh2 (Свет небес), Hotkey (Hotkey - Normal)
+{
+Q
+}
+
+STRING 434
+// Abilities: AHh2 (Свет небес), Unhotkey (Hotkey - Turn Off)
+{
+Q
+}
+
+STRING 435
+// Abilities: AHd2 (Божественный щит), Hotkey (Hotkey - Normal)
+{
+W
+}
+
+STRING 436
+// Abilities: AHd2 (Божественный щит), Unhotkey (Hotkey - Turn Off)
+{
+W
+}
+

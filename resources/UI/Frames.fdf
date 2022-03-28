@@ -1,0 +1,77 @@
+Frame "BACKDROP" "Button-Backdrop" {
+    BackdropBackground  "UI\Widgets\BattleNet\bnet-inputbox-back.blp",
+    BackdropCornerFlags "UL|UR|BL|BR|T|L|B|R",
+    BackdropCornerSize  0.0055,
+    BackdropEdgeFile  "UI\widgets\BattleNet\bnet-tooltip-border.blp",
+    BackdropBackgroundInsets 0.0022 0.0022 0.0022 0.0022 // R T B L
+}
+
+Frame "BACKDROP" "Item-Backdrop" {
+    BackdropBackground  "UI/Widgets/Console/Human/human-inventory-slotfiller.blp",
+    BackdropCornerFlags "UL|UR|BL|BR|T|L|B|R",
+    BackdropCornerSize  0.01,
+    BackdropEdgeFile  "UI/Widgets/glues/gluescreen-scrollbar-backdropborder.blp",
+    BackdropBackgroundInsets 0.0022 0.0022 0.0022 0.0022 // R T B L
+}
+
+Frame "BACKDROP" "Steel-Backdrop" {
+    BackdropBackground  "UI\Widgets\BattleNet\bnet-inputbox-back.blp",
+    BackdropCornerFlags "UL|UR|BL|BR|T|B|L|R",
+    BackdropCornerSize  0.02,
+    BackdropEdgeFile  "UI/Widgets/BattleNet/bnet-dialoguebox-border.blp",
+    BackdropBackgroundInsets 0.005 0.005 0.004 0.005  // R T B L
+}
+
+Frame "BACKDROP" "Map-Backdrop" {
+    BackdropBackground  "UI/Texture/Transparent.blp",
+    BackdropCornerFlags "UL|UR|BL|BR|T|L|B|R",
+    BackdropCornerSize  0.02,
+    BackdropEdgeFile  "UI/Widgets/BattleNet/bnet-inputbox-border.blp",
+    BackdropBackgroundInsets 0.0022 0.0022 0.0022 0.0022 // R T B L
+}
+
+Frame "BACKDROP" "Info-Backdrop" {
+    BackdropBackground  "UI\Widgets\BattleNet\bnet-inputbox-back.blp",
+    BackdropCornerFlags "UL|UR|BL|BR|T|L|B|R",
+    BackdropCornerSize  0.02,
+    BackdropEdgeFile  "UI/Widgets/BattleNet/bnet-inputbox-border.blp",
+    BackdropBackgroundInsets 0.0022 0.0022 0.0022 0.0022 // R T B L
+}
+
+String "SimpleBarTextTemplate" {
+    FontColor 0.95 0.95 0.95 1.0, //Red Green Blue Alpha 0.0 to 1.0
+    FontShadowColor 0.0 0.0 0.0 0.9,
+    FontShadowOffset 0.001 -0.001,
+    Font "MasterFont", 0.01,
+}
+
+Frame "SIMPLESTATUSBAR" "SimpleBarEx" {
+    Width 0.1, //Default Width
+    Height 0.02, //Default Height
+    BarTexture "Replaceabletextures\Teamcolor\Teamcolor0.blp",
+    Layer "BACKGROUND" {
+        Texture "SimpleBarExBackground"{
+            File "Replaceabletextures\Teamcolor\Teamcolor27.blp",
+            //File "resources\BTNNoItem.blp",
+        }
+    }
+    Frame "SIMPLEFRAME" "SimpleBarExFrame" {
+        DecorateFileNames,
+        SetAllPoints,
+        Layer "ARTWORK" {
+            Texture "SimpleBarExBorder" {
+                File "SimpleXpBarBorder",
+                //File "resources\\BTNNoItem.blp",
+            }
+            String "SimpleBarExText" INHERITS "SimpleBarTextTemplate" {
+                Text "SimpleBarEx",
+            }
+         }
+    }
+}
+
+Frame "SPRITE" "StatusBarSprite" {
+    Width 0.1, //Default Width
+    Height 0.02, //Default Height
+    BackgroundArt "UI\Feedback\HpBarConsole\HpBarConsole.mdl",
+}

@@ -1,0 +1,5 @@
+[Misc]
+DayLength=480.0
+HeroAbilityLevelSkip=1
+MaxHeroLevel=20
+

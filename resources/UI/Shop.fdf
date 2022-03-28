@@ -1,0 +1,25 @@
+Frame "FRAME" "ShopDescription" {
+    //DecorateFileNames,
+
+    ControlBackdrop "ShopDescriptionBackdrop",
+    Frame "BACKDROP" "ShopDescriptionBackdrop" {
+    }
+
+    //Frame "TEXT" "ShopDescItemName" INHERITS "InfoPanelTitleTextTemplate" {
+    //    SetPoint TOPLEFT, "ShopDescription", TOPLEFT, 0.014, -0.014,
+    //    SetPoint TOPRIGHT, "ShopDescription", TOPRIGHT, -0.014, -0.014,
+    //    FrameFont "InfoPanelTextFont", 0.011, "",
+    //    FontJustificationH JUSTIFYCENTER,
+    //    FontJustificationV JUSTIFYMIDDLE,
+    //}
+//
+    //Frame "TEXTAREA" "ShopDescItemDescription" INHERITS "EscMenuTextAreaTemplate" {
+    //    SetPoint TOPLEFT, "ShopDescItemName", BOTTOMLEFT, 0.0, 0.0,
+    //    SetPoint TOPRIGHT, "ShopDescription", BOTTOMRIGHT, 0.014, 0.0,
+    //    FrameFont "MasterFont", 0.011, "",
+//
+    //    TextAreaScrollBar "ShopDescItemDescriptionScrollBar",
+    //    Frame "SCROLLBAR" "ShopDescItemDescriptionScrollBar" INHERITS WITHCHILDREN "EscMenuScrollBarTemplate" {
+    //    }
+    //}
+}
